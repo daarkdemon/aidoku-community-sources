@@ -11,10 +11,10 @@
 	{
 		"id": "en.nepnep",
 		"name": "MangaSee",
-		"file": "en.nepnep-v2.aix",
-		"icon": "en.nepnep-v2.png",
+		"file": "en.nepnep-v3.aix",
+		"icon": "en.nepnep-v3.png",
 		"lang": "en",
-		"version": 2,
+		"version": 3,
 		"nsfw": 1
 	},
 	{
@@ -43,5 +43,14 @@
 		"lang": "multi",
 		"version": 1,
 		"nsfw": 2
+	},
+	{
+		"id": "en.mangafox",
+		"name": "MangaFox",
+		"file": "en.mangafox-v1.aix",
+		"icon": "en.mangafox-v1.png",
+		"lang": "en",
+		"version": 1,
+		"nsfw": 1
 	}
 ]
