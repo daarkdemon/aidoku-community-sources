@@ -52,5 +52,23 @@
 		"lang": "en",
 		"version": 1,
 		"nsfw": 1
+	},
+	{
+		"id": "en.mangabat",
+		"name": "MangaBat",
+		"file": "en.mangabat-v1.aix",
+		"icon": "en.mangabat-v1.png",
+		"lang": "en",
+		"version": 1,
+		"nsfw": 1
+	},
+	{
+		"id": "en.manganato",
+		"name": "MangaNato",
+		"file": "en.manganato-v1.aix",
+		"icon": "en.manganato-v1.png",
+		"lang": "en",
+		"version": 1,
+		"nsfw": 1
 	}
 ]
