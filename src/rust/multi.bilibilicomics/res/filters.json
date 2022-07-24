@@ -1,0 +1,36 @@
+[
+	{
+		"type": "title"
+	},
+	{
+		"type": "select",
+		"name": "Genres",
+		"options": [
+			"All",
+			"Mystery",
+			"Harem",
+			"Action",
+			"Adventure",
+			"BL",
+			"Fantasy",
+			"Historical",
+			"Romance",
+			"Comedy",
+			"GL",
+			"Teen",
+			"Slice of Life",
+			"Horror",
+			"Eastern",
+			"Suspense"
+		]
+	},
+	{
+		"type": "select",
+		"name": "Status",
+		"options": [
+			"All",
+			"Ongoing",
+			"Completed"
+		]
+	}
+]

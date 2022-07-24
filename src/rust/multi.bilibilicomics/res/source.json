@@ -1,0 +1,36 @@
+{
+	"info": {
+		"id": "multi.bilibili-comics",
+		"lang": "multi",
+		"name": "Bilibili Comics",
+		"version": 1,
+		"url": "https://www.bilibilicomics.com",
+		"nsfw": 0
+	},
+	"listings": [
+		{
+			"name": "Popular"
+		},
+		{
+			"name": "Latest"
+		},
+		{
+			"name": "New"
+		}
+	],
+	"languages": [
+		{
+			"code": "en"
+		},
+		{
+			"code": "id"
+		},
+		{
+			"code": "zh"
+		},
+		{
+			"code": "es"
+		}
+	],
+	"languageSelectType": "single"
+}
